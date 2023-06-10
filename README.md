@@ -2,7 +2,7 @@
 
   **Four Horsemen of the Apocalypse** 
 
-*Hasan Fırat Yılmaz* - 29002        *Mustafa Topcu* - 28874       *Anıl Şen* - 29556 
+*Hasan Fırat Yılmaz* - 29002\t\t*Mustafa Topcu* - 28874\t\t*Anıl Şen* - 29556 
 
 *Orhun Ege Özpay* - 30539           *İbrahim Mert Kuleci* - 29104
 
