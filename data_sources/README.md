@@ -1,5 +1,13 @@
 # data_sources
-The data_sources folder contains the dataset that we created, cleared, and processed for our project.
+The **data_sources folder** contains the dataset that we created, cleared, and processed for our project.
+
+## Table of Contents
+- [raw_dataset](#raw_dataset)
+- [reduced_dataset2K](#reduced-dataset2K)
+- [chunked_data](#chunked_data)
+- [uncleaned_dataset](#uncleaned_dataset)
+- [analysis_ready_dataset](#analysis_ready_dataset)
+
 
 ## raw_dataset
 We obtained the dataset using the YouTube API. This dataset includes information such as channelName, video_title, comments, and publishDate of each comment. The original, unprocessed version of this dataset is stored in the raw_dataset folder.
