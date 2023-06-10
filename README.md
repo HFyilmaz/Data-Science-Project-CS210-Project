@@ -8,7 +8,6 @@
 *Orhun Ege Özpay* - 30539 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *İbrahim Mert Kuleci* - 29104
 <br><br>
 *Our detailed readme files for each process can be found under the folders. This readme file is a generic readme file*
-<br><br>
 
 ## analysis folder
 
